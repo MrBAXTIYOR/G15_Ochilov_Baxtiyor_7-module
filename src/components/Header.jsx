@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-import { useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
-import { filterData } from "../store/slice/slice";
 
 const Header = () => {
   const [inputVal, setInputVal] = useState(null);
