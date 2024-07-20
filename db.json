@@ -1,0 +1,34 @@
+{
+  "job": [
+    {
+      "id": "248d",
+      "title": "qqqq",
+      "company": "Baxtiyor ",
+      "salary": "2222",
+      "salary_type": "monthly",
+      "description": "ewdfew"
+    },
+    {
+      "id": "be5b",
+      "title": "wefew",
+      "company": "Baxti",
+      "salary": "3223",
+      "salary_type": "monthly",
+      "description": "fwefew"
+    }
+  ],
+  "company": [
+    {
+      "id": "bbac",
+      "name": "Baxtiyor ",
+      "year": "2024-07-10",
+      "company_description": "qqqq"
+    },
+    {
+      "id": "c30a",
+      "name": "Baxti",
+      "year": "2024-07-04",
+      "company_description": "fewfew"
+    }
+  ]
+}
